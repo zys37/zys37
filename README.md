@@ -27,7 +27,7 @@
 
 
   I wanted to try something new, so I decided to make a 3D model of a car in MagicaVoxel and tried to quickly make a simple racing game. I quickly realized that I also need to download blender to animate the wheels, but after many tries the wheels do work.
-  Racing games aren't really my piece of cake so I didn't add more stuff to this game, but that was my first 3D project and got lots of knowledge from it.
+  Racing games aren't really my cup of tea so I didn't add more stuff to this game, but that was my first 3D project and got lots of knowledge from it.
   Heres the video quickly showcasing the game [Watch the video](https://youtu.be/PjdkYCxhPIk)
 
 
