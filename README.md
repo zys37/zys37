@@ -10,6 +10,18 @@
     <img alt="Itch.io profile" title="Check my work here"
       src="https://custom-icon-badges.demolab.com/badge/Itch.IO-My Asset-salmon.svg?logo=magitch&logoColor=white$style=for-the-badge&labelColor=CE4630"/></a>
 ---
+# 🎣 Fishin' Time 🐟
+![fishin_screen](https://github.com/user-attachments/assets/4aeaf739-509d-4e3c-a42a-7e51b198e57b)
+
+<a href="https://zys37.itch.io/fishin-time">
+    <img alt="My Game" title="Check my Game"
+    src="https://custom-icon-badges.demolab.com/badge/Fishin' Time-Check My Game-blue.svg?logo=ryba-export_2&logoColor=white$style=for-the-badge&labelColor=93c47d"/></a>
+    
+  An arcade fishing game made as a part of the Pixel Game Jam: https://itch.io/jam/-pixel-game-jam-2024
+  This was a 10 day jam, this was my first jam and I think it turned out pretty OK! Had lots of fun while making this game, the experience of having so little time to figure out what to do and then to start working on it immediatly was very fun!
+  You can check the game here: https://zys37.itch.io/fishin-time
+
+---
 # ⚔️ Top down RPG 🧙🏻‍♂
   
 ![wioska_compressed](https://github.com/zys37/zys37/assets/157085465/0c12cfad-6dd7-40c0-ba0f-fee8502ba452)
