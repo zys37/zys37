@@ -41,7 +41,12 @@
   I wanted to try something new, so I decided to make a 3D model of a car in MagicaVoxel and tried to quickly make a simple racing game. I quickly realized that I also need to download blender to animate the wheels, but after many tries the wheels do work.
   Racing games aren't really my cup of tea so I didn't add more stuff to this game, but that was my first 3D project and got lots of knowledge from it.
   Heres the video quickly showcasing the game [Watch the video](https://youtu.be/PjdkYCxhPIk)
+  ---
+  # Hand Drawn Survivors
+<img width="804" alt="hand drawn survivors" src="https://github.com/user-attachments/assets/8ce95675-c682-4f33-b3a0-9e0b0c3e91da" />
 
+
+A short Vampire Survivors clone featuring my own hand-drawn graphics, three different monster types, and a few upgrades. The game speeds up as you level up, and healing salves are scattered across the map. You can try the game at [Try the game](https://zys37.itch.io/hand-drawn-survivors). 
 
 <!---
 zys37/zys37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
