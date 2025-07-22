@@ -47,7 +47,7 @@
 
 A short Vampire Survivors clone featuring my own hand-drawn graphics, three different monster types, and a few upgrades. The game speeds up as you level up, and healing salves are scattered across the map. You can try the game at [Try the game](https://zys37.itch.io/hand-drawn-survivors). 
 ---
-# 🚓 License Plate Recognition using YOLO 📸
+# 🚓 License Plate Recognition using Neural Networks 📸
 
 <img width="512" height="389" alt="Detected plate" src="https://github.com/user-attachments/assets/130342ff-f65e-4468-aba5-b2010ef8e0e2" />
 
