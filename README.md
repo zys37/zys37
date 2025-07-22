@@ -72,7 +72,14 @@ Here’s what the pipeline does:
     sort them left to right
     combine into a single string
 
-This was first full detection + OCR combo using YOLO that I participated in and it was a super fun project to work on. We've used python, opencv, numpy, Yolov5, pytorch and worked in google colab.--=test
+This was first full detection + OCR combo using YOLO that I participated in and it was a super fun project to work on. We've used python, opencv, numpy, Yolov5, pytorch and worked in google colab.
+---
+# 🤖 Intelligent API Test Automation 🚀
+<p align="center">
+  <img width="800" height="450" alt="frontend" src="https://github.com/user-attachments/assets/0fe5af6a-f3f6-4e9a-ad94-7677bec1c254" />
+</p>
+
+This project was all about  API testing using the power of AI. Our goal was to make API testing faster, easier, and less prone to errors by letting users describe test scenarios in natural language, then having AI generate the test steps, data, and even validate the API responses. As part of a four-person team, I was responsible for crafting the frontend of this system. I focused on building a lightweight and intuitive user interface using HTML and CSS. This simple, clean structure allowed for rapid testing and a smooth user experience, ensuring that even complex AI-generated tests were easy to understand and manage. That was my first contact with html + CSS. It was a fantastic experience diving deep into AI capabilities for practical application and seeing how a well-designed frontend could make such powerful backend logic accessible and usable. I also really enjoyed learning about frontend.
 <!---
 zys37/zys37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
