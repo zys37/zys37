@@ -45,9 +45,34 @@
   # Hand Drawn Survivors
 <img width="804" alt="hand drawn survivors" src="https://github.com/user-attachments/assets/8ce95675-c682-4f33-b3a0-9e0b0c3e91da" />
 
-
 A short Vampire Survivors clone featuring my own hand-drawn graphics, three different monster types, and a few upgrades. The game speeds up as you level up, and healing salves are scattered across the map. You can try the game at [Try the game](https://zys37.itch.io/hand-drawn-survivors). 
+---
+# 🚓 License Plate Recognition using YOLO 📸
 
+<img width="512" height="389" alt="Detected plate" src="https://github.com/user-attachments/assets/130342ff-f65e-4468-aba5-b2010ef8e0e2" />
+
+A machine learning project I did with my friend during my Neural Networks class at Wrocław University of Science and Technology. The goal was to create a system that detects license plates on images and then reads the characters written on them – kind of like those systems used in parking garages or speed traps.
+
+We used two YOLO models for this:
+One to find the plate on a full image, and the second to detect the individual characters once the plate is cropped. We trained both from scratch using custom datasets. We've also added some image enhancement (contrast, sharpening) to help with recognition accuracy.
+
+The final result is a script that takes a photo and gives back a string like “KR12345”. Super satisfying to see it work!
+<img width="515" height="147" alt="literki" src="https://github.com/user-attachments/assets/07395f41-ef5c-464a-ab02-9909b662a3ca" />
+
+Here’s what the pipeline does:
+
+    detect plate on full photo
+
+    crop the plate out
+
+    preprocess it (CLAHE, sharpening, etc.)
+
+    detect characters
+
+    sort them left to right
+    combine into a single string
+
+This was first full detection + OCR combo using YOLO that I participated in and it was a super fun project to work on. We've used python, opencv, numpy, Yolov5, pytorch and worked in google colab.--=test
 <!---
 zys37/zys37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
