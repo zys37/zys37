@@ -1,6 +1,6 @@
 # Franek Siek ⌨
 <p align="center">
-  I am an Electronics Engineer (Wrocław University of Science and Technology) with a strong foundation in C++ and Python, currently focusing on Software Development and AI. I build web applications (JavaScript/React) and implement machine learning models (TensorFlow, Scikit-learn).
+  I am an Electronics Engineer (Wrocław University of Science and Technology) with a foundation in Python, currently focusing on Software Development and AI. I build web applications (JavaScript/React) and implement machine learning models (TensorFlow, Scikit-learn).
   In my free time, I develop indie games and create 2D pixel art.
   
 ![owca animacja zarcia](https://github.com/zys37/zys37/assets/157085465/20897b17-f1e2-4e69-8fb3-1f1915b49a02)
